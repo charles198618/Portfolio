@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@400;500;600;700&family=Ubuntu:wght@400;700&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-
+}
+/*navbar styling */
+.navbar{
+    Position: fixed;
+    width: 100%;
+    background: crimson;
+    font-family: 'Ubuntu' , sans-serif;
+}
+.navbar .menu li a{
+    color: white;
 }
