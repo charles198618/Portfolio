@@ -38,3 +38,17 @@ margin: auto;
     font-weight: 500;
     margin-left: 25px;
 }
+
+/* Home section styling*/
+.home{
+    display: flex;
+    background: url("Picture/Charles\ photo.jpg") no-repeat center;
+    height: 100vh;
+    background-position: right;
+    color: rgb(68, 64, 59);
+    min-height: 500px;
+    font-family: 'Ubuntu' , sans-serif;
+}
+.home .max-width{
+    margin: auto 0 auto 40px;
+}
